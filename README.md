@@ -1,6 +1,23 @@
 # bone-stimulator
 Bone stimulator project w/ Saad Javeed
 
+## Versions
+
++ bone_stim_v0  
+  + Original constant bone stimulator circuit created by electronics shop  
+  + Much larger and not designed to be implantable  
+  + Potentiometer allowed for adjustment of stimulation current  
++ bone_stim_v1  
+  + Nathan's edit of v0 circuit that makes circuit smaller and stimulation constant  
+  + Used by Jawad Khalifeh in trial studies  
++ bone_stim_pulsed_v2  
+  + Nathan's redesign for Saad Javeed based on literature ([Cho et al 2018](https://doi.org/10.1016/j.spinee.2018.12.011))  
+  + Incorporates stimulator circuit controlled by ATTINY for pulsed stimulation  
+  + Did not work on initial testing 4/12 and needed to be resized anyway (printed square from expressPCB)  
++ bone_stim_v3  
+  + Redesigned to have round edges and an incorporated schematic file  
+  + Described below and should be used in future runs  
+
 ## Paper
 
 - "Effect of the type of electrical stimulation on spinal fusion in a rat posterolateral spinal fusion model" Pyung Goo Cho, MD, Gyu Yeol Ji, PhD, Yoon Ha, PhD, Hye Yeong Lee, Dong Ah Shin, MD, PhD. December 22, 2018 DOI: https://doi.org/10.1016/j.spinee.2018.12.011  
