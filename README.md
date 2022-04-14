@@ -3,7 +3,7 @@ Bone stimulator project w/ Saad Javeed
 
 ## Paper
 
-- "Effect of the type of electrical stimulation on spinal fusion in a rat posterolateral spinal fusion model" Pyung Goo Cho, MD, Gyu Yeol Ji, PhD, Yoon Ha, PhD, Hye Yeong Lee, Dong Ah Shin, MD, PhD. December 22, 2018 DOI:https://doi.org/10.1016/j.spinee.2018.12.011  
+- "Effect of the type of electrical stimulation on spinal fusion in a rat posterolateral spinal fusion model" Pyung Goo Cho, MD, Gyu Yeol Ji, PhD, Yoon Ha, PhD, Hye Yeong Lee, Dong Ah Shin, MD, PhD. December 22, 2018 DOI: https://doi.org/10.1016/j.spinee.2018.12.011  
 - Link: [The Spine Journal](https://www.thespinejournalonline.com/article/S1529-9430(18)31320-2/fulltext)  
 
 ## Parts, datasheets, and schematics
