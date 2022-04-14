@@ -26,8 +26,11 @@ Bone stimulator project w/ Saad Javeed
 + Battery
   + CR-2450/H1AN ([Digikey](https://www.digikey.com/en/products/detail/panasonic-bsg/CR-2450-H1AN/2404067?s=N4IgTCBcDaIMYCcC0YAsBWADAegBIEYBBAORAF0BfIA) / [datasheet](https://b2b-api.panasonic.eu/file_stream/pids/fileversion/3648))
 
-- Capacitors
+- Capacitor
   - 1 µF, 0805 (2012 metric) packaging ([DigiKey](https://www.digikey.com/en/products/detail/kemet/C0805C105K5PAC7800/6097177?s=N4IgTCBcDaIMYAYAcCCscCMaDWqAOAhnAOwoIgC6AvkA))
 
 + Resistors
-  + 10 kΩ, 0402 (1005 metric) packaging (DigiKey)
+  + 1 kΩ, 0603 (1508 metric) packaging  
+  + 200 Ω, 0603 (1508 metric) packaging  
+  + 680 Ω, 0603 (1508 metric) packaging  
+  + Sourced from [resistor sample book](https://www.amazon.com/Yobett-15pF-1uF-3725pcs-Resistor-Capacitor/dp/B00IN2314E/ref=sr_1_10?crid=UE07MO30ZN0Y&keywords=smd+resistor+variety+pack+0603&qid=1649957977&sprefix=smd+resistor+variety+pack+0603%2Caps%2C92&sr=8-10)  
