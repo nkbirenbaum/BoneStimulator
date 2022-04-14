@@ -31,10 +31,10 @@ Bone stimulator project w/ Saad Javeed
 - Gerber and drill files for ordering boards are available in the "bone_stim_pulsed_v3" folder.  
 
 
-![board v3](https://user-images.githubusercontent.com/97985843/163484474-c1b6dc2b-f34a-4449-83bc-8d6e3b9fa9e8.PNG)
+![board v3](https://user-images.githubusercontent.com/97985843/163484474-c1b6dc2b-f34a-4449-83bc-8d6e3b9fa9e8.PNG)  
 <sup>bone stim pulsed v3 PCB </sup>  
 
-![schematic v3](https://user-images.githubusercontent.com/97985843/163484485-addbfcb1-c3a8-4663-93eb-0458f8902ce8.PNG)
+![schematic v3](https://user-images.githubusercontent.com/97985843/163484485-addbfcb1-c3a8-4663-93eb-0458f8902ce8.PNG)  
 <sup>bone stim pulsed v3 schematic</sup>  
 
 ## Parts, datasheets, and schematics
