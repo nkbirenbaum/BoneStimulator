@@ -1,7 +1,7 @@
 # bone-stimulator
 Bone stimulator project w/ Saad Javeed
 
-## Versions
+## PCB versions
 
 + bone_stim_v0  
   + Original constant bone stimulator circuit created by electronics shop  
@@ -18,11 +18,24 @@ Bone stimulator project w/ Saad Javeed
   + Redesigned to have round edges and an incorporated schematic file  
   + Described below and should be used in future runs  
 
+## Software versions
+
+- Note: software versions do not correlate with PCB versions  
+- bone_stim_v1  
+  - Uses delay and delayMicroseconds (delay is not very accurate)  
+- bone_stim_v2  
+  - Uses if(millis() - time_now_ms > PULSE_PERIOD_MS) condition with time_now_ms as unsigned long  
+- bone_stim_v3  
+  - WORK IN PROGRESS  
+  - Need to add button push and blinking funcitonality  
+  - Need to sleep in between pulses  
+  - Measure current draw if possible  
+
 ## Paper
 
-- "Effect of the type of electrical stimulation on spinal fusion in a rat posterolateral spinal fusion model" Pyung Goo Cho, MD, Gyu Yeol Ji, PhD, Yoon Ha, PhD, Hye Yeong Lee, Dong Ah Shin, MD, PhD. December 22, 2018 DOI: https://doi.org/10.1016/j.spinee.2018.12.011  
-- Link: [The Spine Journal](https://www.thespinejournalonline.com/article/S1529-9430(18)31320-2/fulltext)  
-- ![Circuit from paper](https://user-images.githubusercontent.com/97985843/163450529-fd5110ea-4f02-4fdf-9a7e-88e7370d2ff6.PNG)  
++ "Effect of the type of electrical stimulation on spinal fusion in a rat posterolateral spinal fusion model" Pyung Goo Cho, MD, Gyu Yeol Ji, PhD, Yoon Ha, PhD, Hye Yeong Lee, Dong Ah Shin, MD, PhD. December 22, 2018 DOI: https://doi.org/10.1016/j.spinee.2018.12.011  
++ Link: [The Spine Journal](https://www.thespinejournalonline.com/article/S1529-9430(18)31320-2/fulltext)  
++ ![Circuit from paper](https://user-images.githubusercontent.com/97985843/163450529-fd5110ea-4f02-4fdf-9a7e-88e7370d2ff6.PNG)  
 
 
 # PCB design
