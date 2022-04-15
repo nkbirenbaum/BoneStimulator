@@ -56,6 +56,7 @@ Bone stimulator project w/ Saad Javeed
 
 + Battery
   + CR-2450/H1AN ([Digikey](https://www.digikey.com/en/products/detail/panasonic-bsg/CR-2450-H1AN/2404067?s=N4IgTCBcDaIMYCcC0YAsBWADAegBIEYBBAORAF0BfIA) / [datasheet](https://b2b-api.panasonic.eu/file_stream/pids/fileversion/3648))
+  + Search [Digikey](https://www.digikey.com/en/products/filter/batteries-non-rechargeable-primary/90?s=N4IgjCBcoMwExVAYygMwIYBsDOBTANCAPZQDaIM8YYMIhlc1ADHRVdaw9QgLqEAOAFyggAyoIBOASwB2AcxABferWggUkDDgLEy4AKwA2AJwAOCITD6A7KbiHWN-QBYmtS4abXr%2B1mEPOgQiEzt6h7uCGUaYRYHYwzsEgznampsZ%2BptYw1hmWxlZwEUWGdhYgcM5gRXkViV7FzuyslU3WDoSVAcbOLfr66bVwNsbW5cNZ1knDxgVDhjUs9ExwwxB8IEIi4tLySp0DiOpoWHiEJJDkMKYpTZw3N70bW5BikrIKyhVeGWoaWmddJcKAACABqnAAdHBwVDDLDnsJXgBVGRSQQAeVQAFlcOhsABXCS4fYgAC0CD%2BUEkBJ0F3Ivh4ii%2BlPISCIshBSFwmEwIIARuhBIJcBIAJ4gJlAA) for other batteries if out of stock (this search saves most of the relevant parameters but check pin spacing with PCB)  
 
 - Capacitor
   - 1 µF, 0805 (2012 metric) packaging ([DigiKey](https://www.digikey.com/en/products/detail/kemet/C0805C105K5PAC7800/6097177?s=N4IgTCBcDaIMYAYAcCCscCMaDWqAOAhnAOwoIgC6AvkA))
